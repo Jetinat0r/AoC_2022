@@ -1,2 +1,2 @@
-﻿Day_23 day = new();
+﻿Day_24 day = new();
 day.Main();
